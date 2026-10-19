@@ -1,0 +1,9 @@
+Lucas Haddad
+lucas.haddad58@example.com
+
+Experience
+Backend Developer | Bluepeak Systems
+- Did development work.
+
+Skills
+Python, JavaScript

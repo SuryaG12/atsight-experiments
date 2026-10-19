@@ -1,0 +1,32 @@
+Nina Marsh
+nina.marsh80@example.com
+(236) 528-3178
+linkedin.com/in/nina-marsh69
+github.com/ninamarsh99
+
+Summary
+DevOps Engineer with 3 years of experience building web applications and data pipelines. Looking for a senior engineering role.
+
+Experience
+Senior DevOps Engineer | Bluepeak Systems | 2021 - Present
+- Implemented onboarding docs adopted by 15 new hires in one quarter
+- Optimized a reporting API used by 13+ internal tools across 6 teams
+- Optimized CI pipelines that reduced deploy time from 37 minutes to 4 minutes
+- Improved a reporting API used by 4+ internal tools across 7 teams
+- Built onboarding docs adopted by 7 new hires in one quarter
+- Launched caching layer that lowered database load by 28%
+
+DevOps Engineer | Foxglove Analytics | 2019 - 2021
+- Deployed a customer dashboard serving 33k monthly users, cutting load time by 59%
+- Optimized a reporting API used by 8+ internal tools across 3 teams
+- Designed a customer dashboard serving 53k monthly users, cutting load time by 35%
+- Developed a customer dashboard serving 12k monthly users, cutting load time by 59%
+
+Education
+B.S. Computer Science | Polytechnic Institute | 2015 - 2019
+
+Skills
+Git, Redis, PostgreSQL, Agile, JavaScript, unit testing, TypeScript, Docker, AWS, GraphQL, machine learning, Kubernetes
+
+Projects
+- Open-source contributor to a testing library with 40+ merged pull requests

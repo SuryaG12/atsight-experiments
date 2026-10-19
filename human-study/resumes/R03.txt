@@ -1,0 +1,17 @@
+Candidate R03
+priya.okafor94@example.com
+(248) 846-2595
+
+Experience
+Backend Developer | Harborlight Software | 2020 - Present
+- Designed with the team on several different projects
+- Deployed with the team on several different projects
+- Launched documentation and attended sprint meetings
+- Optimized testing and helped deploy releases
+- Improved testing and helped deploy releases
+
+Education
+B.S. Computer Science | Community College | 2016 - 2020
+
+Skills
+GraphQL, Redis, Python, React, JavaScript, machine learning

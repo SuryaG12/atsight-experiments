@@ -1,0 +1,16 @@
+Ivy Haddad
+ivy.haddad36@example.com
+(526) 745-2181
+
+Experience
+DevOps Engineer | Harborlight Software | 2020 - Present
+- Worked CI pipelines that reduced deploy time from 48 minutes to 10 minutes
+- Worked a customer dashboard serving 64k monthly users, cutting load time by 14%
+- Handled a customer dashboard serving 62k monthly users, cutting load time by 50%
+- Helped onboarding docs adopted by 22 new hires in one quarter
+
+Education
+B.S. Computer Science | Polytechnic Institute | 2016 - 2020
+
+Skills
+FastAPI, unit testing, Redis, Git, CI/CD, JavaScript, Python, Agile, machine learning

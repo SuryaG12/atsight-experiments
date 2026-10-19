@@ -1,0 +1,15 @@
+Liam Chen
+liam.chen23@example.com
+
+Experience
+Data Analyst | Juniper Stack | 2020 - Present
+- Implemented testing and helped deploy releases
+- Built testing and helped deploy releases
+- Led documentation and attended sprint meetings
+- Improved testing and helped deploy releases
+
+Education
+B.S. Computer Science | Community College | 2016 - 2020
+
+Skills
+CI/CD, PostgreSQL, REST APIs, Docker, machine learning, React, Agile, AWS, Python

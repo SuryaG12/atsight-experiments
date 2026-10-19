@@ -1,0 +1,31 @@
+Zoe Garcia
+zoe.garcia93@example.com
+(872) 236-1698
+linkedin.com/in/zoe-garcia84
+github.com/zoegarcia78
+
+Summary
+DevOps Engineer with 3 years of experience building web applications and data pipelines. Looking for a senior engineering role.
+
+Experience
+Senior DevOps Engineer | Copperline Tech | 2021 - Present
+- Automated a reporting API used by 14+ internal tools across 4 teams
+- Built onboarding docs adopted by 27 new hires in one quarter
+- Optimized caching layer that lowered database load by 67%
+- Improved an alerting system covering 17 services with 23% fewer false positives
+- Optimized caching layer that lowered database load by 38%
+- Designed a reporting API used by 8+ internal tools across 2 teams
+
+DevOps Engineer | Juniper Stack | 2019 - 2021
+- Led CI pipelines that reduced deploy time from 54 minutes to 6 minutes
+- Led onboarding docs adopted by 25 new hires in one quarter
+
+Education
+B.S. Computer Science | Polytechnic Institute | 2015 - 2019
+
+Skills
+JavaScript, data analysis, React, FastAPI, TypeScript, CI/CD, unit testing, Agile, Redis, Node.js, Kubernetes, machine learning, Python, Docker
+
+Projects
+- Built a URL shortener handling 10k redirects per day
+- Open-source contributor to a testing library with 40+ merged pull requests

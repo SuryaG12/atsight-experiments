@@ -1,0 +1,11 @@
+Ivy Tanaka
+ivy.tanaka84@example.com
+(371) 371-6965
+
+Experience
+Frontend Developer | Copperline Tech | 2021 - Present
+- Responsible for various engineering tasks and team support.
+- Participated in code reviews and project planning sessions.
+
+Skills
+Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, Docker, Kubernetes, AWS, Git, FastAPI, Django, GraphQL, Redis, CI/CD, machine learning, data analysis, REST APIs, unit testing, Agile, AWS, Python, React, FastAPI, data analysis

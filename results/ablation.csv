@@ -1,0 +1,6 @@
+degradation,total,delta
+remove_email,87.0,-8.0
+remove_quantified_numbers,89.0,-6.0
+nonstandard_headers,80.0,-15.0
+remove_skills_section,81.5,-13.5
+bullets_to_paragraphs,87.0,-8.0

@@ -1,0 +1,9 @@
+Dev Novak
+dev.novak82@example.com
+
+Experience
+Data Analyst | Foxglove Analytics
+- Did development work.
+
+Skills
+Python, JavaScript

@@ -1,0 +1,16 @@
+Ethan Garcia
+ethan.garcia44@example.com
+
+Experience
+Frontend Developer | Juniper Stack | 2020 - Present
+- Launched a customer dashboard serving 76k monthly users, cutting load time by 38%
+- Deployed a customer dashboard serving 43k monthly users, cutting load time by 26%
+- Built a reporting API used by 4+ internal tools across 3 teams
+- Designed CI pipelines that reduced deploy time from 26 minutes to 6 minutes
+- Deployed an alerting system covering 6 services with 30% fewer false positives
+
+Education
+B.S. Computer Science | State University | 2016 - 2020
+
+Skills
+Redis, Git, machine learning, CI/CD, Django, GraphQL, TypeScript

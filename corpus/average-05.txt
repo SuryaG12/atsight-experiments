@@ -1,0 +1,18 @@
+Zoe Haddad
+zoe.haddad35@example.com
+(818) 257-2568
+
+Experience
+Data Analyst | Northwind Labs | 2020 - Present
+- Developed a reporting API used by 7+ internal tools across 4 teams
+- Deployed caching layer that lowered database load by 31%
+- Designed onboarding docs adopted by 22 new hires in one quarter
+- Automated caching layer that lowered database load by 46%
+- Led onboarding docs adopted by 20 new hires in one quarter
+- Deployed a reporting API used by 13+ internal tools across 7 teams
+
+Education
+B.S. Computer Science | Community College | 2016 - 2020
+
+Skills
+data analysis, GraphQL, JavaScript, CI/CD, Python, REST APIs, machine learning, Git

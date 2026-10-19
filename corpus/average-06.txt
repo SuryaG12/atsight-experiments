@@ -1,0 +1,17 @@
+Ivy Okafor
+ivy.okafor77@example.com
+
+Experience
+Data Analyst | Bluepeak Systems | 2020 - Present
+- Developed with the team on several different projects
+- Built with the team on several different projects
+- Developed documentation and attended sprint meetings
+- Developed testing and helped deploy releases
+- Implemented documentation and attended sprint meetings
+- Developed with the team on several different projects
+
+Education
+B.S. Computer Science | State University | 2016 - 2020
+
+Skills
+PostgreSQL, Kubernetes, TypeScript, Agile, FastAPI, Node.js, Django, Python

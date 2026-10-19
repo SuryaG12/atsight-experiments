@@ -1,0 +1,11 @@
+Omar Garcia
+omar.garcia52@example.com
+(817) 867-2867
+
+Experience
+QA Engineer | Northwind Labs | 2021 - Present
+- Responsible for various engineering tasks and team support.
+- Participated in code reviews and project planning sessions.
+
+Skills
+Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, Docker, Kubernetes, AWS, Git, FastAPI, Django, GraphQL, Redis, CI/CD, machine learning, data analysis, REST APIs, unit testing, Agile, PostgreSQL, AWS, data analysis, Node.js

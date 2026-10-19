@@ -1,0 +1,9 @@
+Ivy Garcia
+ivy.garcia68@example.com
+
+Experience
+QA Engineer | Harborlight Software
+- Did development work.
+
+Skills
+Python, JavaScript

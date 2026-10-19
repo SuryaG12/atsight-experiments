@@ -1,0 +1,10 @@
+Lena Marsh
+lena.marsh75@example.com
+(435) 800-5182
+
+Experience
+Backend Developer | Harborlight Software | 2021 - Present
+- Responsible for various engineering tasks and team support.
+
+Skills
+Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, Docker, Kubernetes, AWS, Git, FastAPI, Django, GraphQL, Redis, CI/CD, machine learning, data analysis, REST APIs, unit testing, Agile, REST APIs, FastAPI, Node.js, Git, GraphQL

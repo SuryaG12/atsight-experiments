@@ -1,0 +1,18 @@
+Ethan Okafor
+ethan.okafor99@example.com
+(928) 582-5754
+
+Experience
+Frontend Developer | Copperline Tech | 2020 - Present
+- Implemented CI pipelines that reduced deploy time from 23 minutes to 3 minutes
+- Built caching layer that lowered database load by 21%
+- Optimized a customer dashboard serving 16k monthly users, cutting load time by 29%
+- Designed onboarding docs adopted by 25 new hires in one quarter
+- Implemented an alerting system covering 11 services with 44% fewer false positives
+- Deployed CI pipelines that reduced deploy time from 28 minutes to 4 minutes
+
+Education
+B.S. Computer Science | Polytechnic Institute | 2016 - 2020
+
+Skills
+AWS, GraphQL, PostgreSQL, data analysis, FastAPI, Python, Django, React, Git, Redis

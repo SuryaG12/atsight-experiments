@@ -1,0 +1,9 @@
+Noah Haddad
+noah.haddad87@example.com
+
+Experience
+Backend Developer | Foxglove Analytics
+- Did development work.
+
+Skills
+Python, JavaScript

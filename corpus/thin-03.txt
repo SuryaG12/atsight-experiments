@@ -1,0 +1,9 @@
+Ethan Marsh
+ethan.marsh75@example.com
+
+Experience
+Data Analyst | Harborlight Software
+- Did development work.
+
+Skills
+Python, JavaScript

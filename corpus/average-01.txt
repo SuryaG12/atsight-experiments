@@ -1,0 +1,15 @@
+Noah Okafor
+noah.okafor72@example.com
+
+Experience
+Frontend Developer | Northwind Labs | 2020 - Present
+- Deployed onboarding docs adopted by 11 new hires in one quarter
+- Developed CI pipelines that reduced deploy time from 43 minutes to 3 minutes
+- Automated an alerting system covering 17 services with 46% fewer false positives
+- Led a reporting API used by 11+ internal tools across 8 teams
+
+Education
+B.S. Computer Science | State University | 2016 - 2020
+
+Skills
+Agile, PostgreSQL, Redis, AWS, data analysis, TypeScript, machine learning, React

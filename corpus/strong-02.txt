@@ -1,0 +1,34 @@
+Kai Okafor
+kai.okafor85@example.com
+(506) 879-2913
+linkedin.com/in/kai-okafor11
+github.com/kaiokafor79
+
+Summary
+Data Analyst with 4 years of experience building web applications and data pipelines. Looking for a senior engineering role.
+
+Experience
+Senior Data Analyst | Foxglove Analytics | 2021 - Present
+- Designed a customer dashboard serving 12k monthly users, cutting load time by 34%
+- Developed caching layer that lowered database load by 38%
+- Automated caching layer that lowered database load by 43%
+- Deployed onboarding docs adopted by 21 new hires in one quarter
+
+Data Analyst | Juniper Stack | 2019 - 2021
+- Launched a reporting API used by 14+ internal tools across 5 teams
+- Led CI pipelines that reduced deploy time from 27 minutes to 10 minutes
+- Developed a reporting API used by 10+ internal tools across 7 teams
+- Automated caching layer that lowered database load by 30%
+- Implemented CI pipelines that reduced deploy time from 39 minutes to 4 minutes
+- Deployed a reporting API used by 10+ internal tools across 4 teams
+
+Education
+B.S. Computer Science | Community College | 2015 - 2019
+
+Skills
+Kubernetes, Node.js, unit testing, Docker, CI/CD, FastAPI, GraphQL, REST APIs, Python, Git, Django, machine learning, Agile, AWS, TypeScript, React
+
+Projects
+- Personal finance tracker with 2k downloads on GitHub
+- Open-source contributor to a testing library with 40+ merged pull requests
+- Built a URL shortener handling 10k redirects per day

@@ -1,0 +1,31 @@
+Marco Kim
+marco.kim90@example.com
+(886) 463-1545
+linkedin.com/in/marco-kim75
+github.com/marcokim36
+
+Summary
+DevOps Engineer with 4 years of experience building web applications and data pipelines. Looking for a senior engineering role.
+
+Experience
+Senior DevOps Engineer | Harborlight Software | 2021 - Present
+- Implemented a customer dashboard serving 27k monthly users, cutting load time by 57%
+- Implemented a reporting API used by 12+ internal tools across 3 teams
+- Optimized a reporting API used by 6+ internal tools across 4 teams
+- Optimized caching layer that lowered database load by 30%
+- Launched a reporting API used by 11+ internal tools across 3 teams
+- Designed onboarding docs adopted by 21 new hires in one quarter
+
+DevOps Engineer | Copperline Tech | 2019 - 2021
+- Automated a customer dashboard serving 16k monthly users, cutting load time by 18%
+
+Education
+B.S. Computer Science | State University | 2015 - 2019
+
+Skills
+Kubernetes, unit testing, PostgreSQL, Git, Redis, Node.js, GraphQL, data analysis, React, CI/CD, Django
+
+Projects
+- Built a URL shortener handling 10k redirects per day
+- Personal finance tracker with 2k downloads on GitHub
+- Open-source contributor to a testing library with 40+ merged pull requests

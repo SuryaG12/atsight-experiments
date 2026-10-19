@@ -1,0 +1,11 @@
+Ava Lindqvist
+ava.lindqvist77@example.com
+(951) 902-5873
+
+Experience
+Data Analyst | Bluepeak Systems | 2021 - Present
+- Responsible for various engineering tasks and team support.
+- Participated in code reviews and project planning sessions.
+
+Skills
+Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, Docker, Kubernetes, AWS, Git, FastAPI, Django, GraphQL, Redis, CI/CD, machine learning, data analysis, REST APIs, unit testing, Agile, Docker, machine learning, Node.js, unit testing

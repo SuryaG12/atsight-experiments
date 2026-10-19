@@ -1,0 +1,9 @@
+Liam Kapoor
+liam.kapoor39@example.com
+
+Experience
+Software Engineer | Foxglove Analytics
+- Did development work.
+
+Skills
+Python, JavaScript

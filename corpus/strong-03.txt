@@ -1,0 +1,33 @@
+Rosa Chen
+rosa.chen65@example.com
+(675) 931-6690
+linkedin.com/in/rosa-chen77
+github.com/rosachen40
+
+Summary
+QA Engineer with 6 years of experience building web applications and data pipelines. Looking for a senior engineering role.
+
+Experience
+Senior QA Engineer | Northwind Labs | 2021 - Present
+- Developed onboarding docs adopted by 14 new hires in one quarter
+- Led caching layer that lowered database load by 67%
+- Implemented onboarding docs adopted by 11 new hires in one quarter
+- Designed a customer dashboard serving 56k monthly users, cutting load time by 30%
+- Optimized an alerting system covering 10 services with 33% fewer false positives
+
+QA Engineer | Bluepeak Systems | 2019 - 2021
+- Improved onboarding docs adopted by 18 new hires in one quarter
+- Built CI pipelines that reduced deploy time from 57 minutes to 9 minutes
+- Launched an alerting system covering 8 services with 45% fewer false positives
+- Developed onboarding docs adopted by 22 new hires in one quarter
+
+Education
+B.S. Computer Science | State University | 2015 - 2019
+
+Skills
+Docker, REST APIs, GraphQL, Redis, React, Agile, AWS, JavaScript, TypeScript, machine learning, CI/CD
+
+Projects
+- Open-source contributor to a testing library with 40+ merged pull requests
+- Personal finance tracker with 2k downloads on GitHub
+- Built a URL shortener handling 10k redirects per day

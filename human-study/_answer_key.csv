@@ -1,0 +1,11 @@
+label,corpus_file,ats_score
+R01,poor_format-03.txt,15.0
+R02,poor_format-07.txt,16.5
+R03,average-09.txt,84.5
+R04,average-04.txt,68.0
+R05,average-06.txt,78.5
+R06,strong-01.txt,95.0
+R07,keyword_stuffed-08.txt,69.0
+R08,strong-04.txt,94.6
+R09,keyword_stuffed-03.txt,69.0
+R10,thin-05.txt,39.0

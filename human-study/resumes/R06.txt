@@ -1,0 +1,32 @@
+Candidate R06
+nina.chen66@example.com
+(387) 879-2991
+linkedin.com/in/nina-chen72
+github.com/ninachen77
+
+Summary
+DevOps Engineer with 6 years of experience building web applications and data pipelines. Looking for a senior engineering role.
+
+Experience
+Senior DevOps Engineer | Copperline Tech | 2021 - Present
+- Optimized onboarding docs adopted by 5 new hires in one quarter
+- Improved a reporting API used by 15+ internal tools across 3 teams
+- Launched onboarding docs adopted by 30 new hires in one quarter
+- Launched an alerting system covering 13 services with 47% fewer false positives
+- Automated an alerting system covering 15 services with 28% fewer false positives
+
+DevOps Engineer | Foxglove Analytics | 2019 - 2021
+- Developed a customer dashboard serving 54k monthly users, cutting load time by 21%
+- Designed onboarding docs adopted by 19 new hires in one quarter
+- Developed a customer dashboard serving 33k monthly users, cutting load time by 58%
+- Implemented a customer dashboard serving 17k monthly users, cutting load time by 10%
+
+Education
+B.S. Computer Science | State University | 2015 - 2019
+
+Skills
+REST APIs, Agile, FastAPI, PostgreSQL, machine learning, CI/CD, AWS, Docker, Redis, Git, JavaScript, TypeScript, Django, unit testing, Kubernetes
+
+Projects
+- Built a URL shortener handling 10k redirects per day
+- Open-source contributor to a testing library with 40+ merged pull requests

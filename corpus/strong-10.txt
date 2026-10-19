@@ -1,0 +1,30 @@
+Lucas Marsh
+lucas.marsh26@example.com
+(415) 638-9195
+linkedin.com/in/lucas-marsh22
+github.com/lucasmarsh54
+
+Summary
+QA Engineer with 6 years of experience building web applications and data pipelines. Looking for a senior engineering role.
+
+Experience
+Senior QA Engineer | Copperline Tech | 2021 - Present
+- Optimized onboarding docs adopted by 19 new hires in one quarter
+- Led caching layer that lowered database load by 24%
+- Optimized caching layer that lowered database load by 63%
+- Developed CI pipelines that reduced deploy time from 52 minutes to 10 minutes
+
+QA Engineer | Bluepeak Systems | 2019 - 2021
+- Developed a customer dashboard serving 35k monthly users, cutting load time by 52%
+- Optimized an alerting system covering 19 services with 54% fewer false positives
+- Developed caching layer that lowered database load by 18%
+
+Education
+B.S. Computer Science | State University | 2015 - 2019
+
+Skills
+GraphQL, AWS, TypeScript, Docker, REST APIs, Git, Django, Python, unit testing, Kubernetes, Redis, machine learning, FastAPI, Agile
+
+Projects
+- Built a URL shortener handling 10k redirects per day
+- Open-source contributor to a testing library with 40+ merged pull requests

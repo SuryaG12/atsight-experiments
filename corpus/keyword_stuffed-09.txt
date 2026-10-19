@@ -1,0 +1,12 @@
+Ava Marsh
+ava.marsh60@example.com
+(778) 957-1109
+
+Experience
+Frontend Developer | Northwind Labs | 2021 - Present
+- Responsible for various engineering tasks and team support.
+- Participated in code reviews and project planning sessions.
+- Helped with deployments and documentation updates.
+
+Skills
+Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, Docker, Kubernetes, AWS, Git, FastAPI, Django, GraphQL, Redis, CI/CD, machine learning, data analysis, REST APIs, unit testing, Agile, Node.js, Kubernetes, AWS, REST APIs, CI/CD, JavaScript, data analysis, FastAPI

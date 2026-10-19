@@ -1,0 +1,34 @@
+Rosa Novak
+rosa.novak81@example.com
+(938) 929-4416
+linkedin.com/in/rosa-novak62
+github.com/rosanovak78
+
+Summary
+Data Analyst with 6 years of experience building web applications and data pipelines. Looking for a senior engineering role.
+
+Experience
+Senior Data Analyst | Harborlight Software | 2021 - Present
+- Built caching layer that lowered database load by 47%
+- Improved CI pipelines that reduced deploy time from 58 minutes to 8 minutes
+- Built a reporting API used by 12+ internal tools across 8 teams
+- Deployed onboarding docs adopted by 29 new hires in one quarter
+
+Data Analyst | Northwind Labs | 2019 - 2021
+- Deployed caching layer that lowered database load by 30%
+- Built caching layer that lowered database load by 33%
+- Optimized caching layer that lowered database load by 16%
+- Built CI pipelines that reduced deploy time from 28 minutes to 3 minutes
+- Automated CI pipelines that reduced deploy time from 43 minutes to 3 minutes
+- Optimized caching layer that lowered database load by 41%
+
+Education
+B.S. Computer Science | Community College | 2015 - 2019
+
+Skills
+AWS, data analysis, FastAPI, Node.js, Python, TypeScript, CI/CD, REST APIs, Docker, JavaScript, Django, React, Agile
+
+Projects
+- Built a URL shortener handling 10k redirects per day
+- Open-source contributor to a testing library with 40+ merged pull requests
+- Personal finance tracker with 2k downloads on GitHub

@@ -1,0 +1,9 @@
+Ethan Kim
+ethan.kim12@example.com
+
+Experience
+QA Engineer | Juniper Stack
+- Did development work.
+
+Skills
+Python, JavaScript

@@ -1,0 +1,18 @@
+Ava Kapoor
+ava.kapoor81@example.com
+(483) 855-9503
+
+Experience
+QA Engineer | Harborlight Software | 2020 - Present
+- Automated onboarding docs adopted by 25 new hires in one quarter
+- Led an alerting system covering 14 services with 41% fewer false positives
+- Led a customer dashboard serving 57k monthly users, cutting load time by 19%
+- Designed caching layer that lowered database load by 53%
+- Deployed caching layer that lowered database load by 47%
+- Built a reporting API used by 15+ internal tools across 3 teams
+
+Education
+B.S. Computer Science | Polytechnic Institute | 2016 - 2020
+
+Skills
+Django, JavaScript, CI/CD, Git, TypeScript, AWS, Agile, PostgreSQL

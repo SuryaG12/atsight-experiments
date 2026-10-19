@@ -1,0 +1,16 @@
+Candidate R04
+ivy.kapoor21@example.com
+(852) 607-5434
+
+Experience
+Frontend Developer | Juniper Stack | 2020 - Present
+- Helped an alerting system covering 5 services with 38% fewer false positives
+- Assisted a customer dashboard serving 14k monthly users, cutting load time by 13%
+- Helped a customer dashboard serving 64k monthly users, cutting load time by 23%
+- Worked onboarding docs adopted by 30 new hires in one quarter
+
+Education
+B.S. Computer Science | Polytechnic Institute | 2016 - 2020
+
+Skills
+data analysis, FastAPI, AWS, unit testing, GraphQL, Python

@@ -1,0 +1,12 @@
+Noah Haddad
+noah.haddad18@example.com
+(308) 923-2549
+
+Experience
+Data Analyst | Bluepeak Systems | 2021 - Present
+- Responsible for various engineering tasks and team support.
+- Participated in code reviews and project planning sessions.
+- Helped with deployments and documentation updates.
+
+Skills
+Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, Docker, Kubernetes, AWS, Git, FastAPI, Django, GraphQL, Redis, CI/CD, machine learning, data analysis, REST APIs, unit testing, Agile, unit testing, Docker, Node.js, FastAPI, machine learning, React, PostgreSQL

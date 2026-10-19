@@ -1,0 +1,31 @@
+Ivy Patel
+ivy.patel96@example.com
+(328) 261-9186
+linkedin.com/in/ivy-patel92
+github.com/ivypatel80
+
+Summary
+Backend Developer with 5 years of experience building web applications and data pipelines. Looking for a senior engineering role.
+
+Experience
+Senior Backend Developer | Foxglove Analytics | 2021 - Present
+- Implemented a customer dashboard serving 73k monthly users, cutting load time by 31%
+- Designed a customer dashboard serving 32k monthly users, cutting load time by 15%
+- Implemented caching layer that lowered database load by 39%
+- Designed caching layer that lowered database load by 40%
+- Improved a customer dashboard serving 25k monthly users, cutting load time by 28%
+- Automated onboarding docs adopted by 30 new hires in one quarter
+
+Backend Developer | Copperline Tech | 2019 - 2021
+- Implemented a customer dashboard serving 31k monthly users, cutting load time by 28%
+
+Education
+B.S. Computer Science | State University | 2015 - 2019
+
+Skills
+JavaScript, Django, unit testing, REST APIs, PostgreSQL, Redis, React, Node.js, data analysis, Kubernetes, Docker, FastAPI, CI/CD, GraphQL, Agile
+
+Projects
+- Personal finance tracker with 2k downloads on GitHub
+- Open-source contributor to a testing library with 40+ merged pull requests
+- Built a URL shortener handling 10k redirects per day

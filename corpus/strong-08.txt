@@ -1,0 +1,33 @@
+Ava Kapoor
+ava.kapoor85@example.com
+(794) 955-5126
+linkedin.com/in/ava-kapoor56
+github.com/avakapoor78
+
+Summary
+DevOps Engineer with 4 years of experience building web applications and data pipelines. Looking for a senior engineering role.
+
+Experience
+Senior DevOps Engineer | Harborlight Software | 2021 - Present
+- Improved a reporting API used by 4+ internal tools across 5 teams
+- Developed onboarding docs adopted by 10 new hires in one quarter
+- Developed caching layer that lowered database load by 66%
+- Launched onboarding docs adopted by 13 new hires in one quarter
+- Deployed an alerting system covering 6 services with 44% fewer false positives
+- Optimized caching layer that lowered database load by 70%
+
+DevOps Engineer | Foxglove Analytics | 2019 - 2021
+- Improved an alerting system covering 18 services with 22% fewer false positives
+- Implemented CI pipelines that reduced deploy time from 45 minutes to 5 minutes
+- Led a reporting API used by 12+ internal tools across 8 teams
+
+Education
+B.S. Computer Science | Community College | 2015 - 2019
+
+Skills
+machine learning, REST APIs, FastAPI, Django, Python, unit testing, CI/CD, Node.js, Agile, JavaScript, GraphQL, Redis, PostgreSQL
+
+Projects
+- Open-source contributor to a testing library with 40+ merged pull requests
+- Built a URL shortener handling 10k redirects per day
+- Personal finance tracker with 2k downloads on GitHub
